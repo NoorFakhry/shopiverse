@@ -2,14 +2,6 @@
     <div class="page-body">
         <header>
             <h1>Welcome to Shopiverse</h1>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="products.html">Products</a></li>
-                    <li><a href="about.html" class="active">About</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-            </nav>
         </header>
         
         <section class="about-section">
